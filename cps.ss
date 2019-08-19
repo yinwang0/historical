@@ -1,7 +1,7 @@
 ;; A simple CPS transformer which does proper tail-call and does not
 ;; duplicate contexts for if-expressions.
 
-;; author: Yin Wang (yw21@cs.indiana.edu)
+;; author: Yin Wang
 
 
 (load "pmatch.scm")
