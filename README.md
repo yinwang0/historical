@@ -1,7 +1,6 @@
-* cps.ss - CPS transformer without administrative redexes (10+ years of
-  research, finished independently as a weekly homework)
+* cps.ss - CPS transformer without administrative redexes
 
-* compiler.ss - optimizing compiler from Scheme to X64 assembly
+* compiler.ss - compiler from Scheme to X64 assembly
 
 * meta-interp.ss - meta-circular interpreter that can interpret itself
   to any level
