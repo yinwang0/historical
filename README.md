@@ -1,6 +1,6 @@
 * cps.ss - CPS transformer without administrative redexes
 
-* compiler.ss - compiler from Scheme to X64 assembly
+* compiler.ss - a compiler from Scheme to X64 assembly
 
 * meta-interp.ss - meta-circular interpreter that can interpret itself
   to any level
@@ -23,7 +23,7 @@
 * lazy-ski.ss - compiler from lambda calculus to "lazy combinators"
 
 * cek.ss - a "reversible" CEK abstract machine which can run forwards and
-  backwards and change directions any any time. One night's research.
+  backwards and change directions.
 
 * encoding.scm - "church encoding" of various things in the lambda
   calculus, used by some other code (e.g. lazy-ski.ss)
